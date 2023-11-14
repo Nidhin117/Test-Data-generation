@@ -1,0 +1,93 @@
+'target1': {'Test data': [40, 576], 'Generation': 1}, 
+'target2': {'Test data': [915, 623], 'Generation': 1}, 
+'target3': {'Test data': [838, 257], 'Generation': 1}, 
+'target4': {'Test data': [93, 665], 'Generation': 1}, 
+'target5': {'Test data': [314, 137], 'Generation': 1}
+
+-----------------------------------------------------------------------------------------------------------------------------
+
+'target1': {'Test data': [855, 764], 'Generation': 1}, 
+'target2': {'Test data': [554, 891], 'Generation': 1}, 
+'target3': {'Test data': [524, 629], 'Generation': 100}, 
+'target4': {'Test data': [809, 699], 'Generation': 1}, 
+'target5': {'Test data': [16, 949], 'Generation': 1}
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+'target1': {'Test data': [125, 722], 'Generation': 1}, 
+'target2': {'Test data': [676, 165], 'Generation': 1}, 
+'target3': {'Test data': [175, 455], 'Generation': 1}, 
+'target4': {'Test data': [433, 331], 'Generation': 1}, 
+'target5': {'Test data': [478, 479], 'Generation': 1}
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+'target1': {'Test data': [125, 722], 'Generation': 1}, 
+'target2': {'Test data': [676, 165], 'Generation': 1}, 
+'target3': {'Test data': [175, 455], 'Generation': 1}, 
+'target4': {'Test data': [433, 331], 'Generation': 1}, 
+'target5': {'Test data': [478, 479], 'Generation': 1}
+
+--------------------------------------------------------------------------------------------------------------------------------
+
+'target1': {'Test data': [136, 18], 'Generation': 1}, 
+'target2': {'Test data': [558, 419], 'Generation': 1}, 
+'target3': {'Test data': [996, 321], 'Generation': 100}, 
+'target4': {'Test data': [320, 639], 'Generation': 1}, 
+'target5': {'Test data': [461, 377], 'Generation': 1}
+
+--------------------------------------------------------------------------------------------------------------------------------
+
+'target1': {'Test data': [289, 954], 'Generation': 1}, 
+'target2': {'Test data': [136, 79], 'Generation': 1}, 
+'target3': {'Test data': [599, 439], 'Generation': 1}, 
+'target4': {'Test data': [920, 211], 'Generation': 1}, 
+'target5': {'Test data': [517, 179], 'Generation': 1}
+
+-----------------------------------------------------------------------------------------------------------------------------------
+
+'target1': {'Test data': [1000, 902], 'Generation': 1}, 
+'target2': {'Test data': [449, 233], 'Generation': 1}, 
+'target3': {'Test data': [411, 569], 'Generation': 1}, 
+'target4': {'Test data': [291, 281], 'Generation': 1}, 
+'target5': {'Test data': [308, 595], 'Generation': 1}
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+'target1': {'Test data': [539, 362], 'Generation': 1}, 
+'target2': {'Test data': [592, 387], 'Generation': 1}, 
+'target3': {'Test data': [926, 275], 'Generation': 1}, 
+'target4': {'Test data': [483, 541], 'Generation': 1}, 
+'target5': {'Test data': [963, 749], 'Generation': 1}
+
+--------------------------------------------------------------------------------------------------------------------------------
+
+'target1': {'Test data': [489, 604], 'Generation': 1}, 
+'target2': {'Test data': [13, 399], 'Generation': 100}, 
+'target3': {'Test data': [435, 547], 'Generation': 1}, 
+'target4': {'Test data': [573, 47], 'Generation': 1}, 
+'target5': {'Test data': [726, 621], 'Generation': 1}
+
+-----------------------------------------------------------------------------------------------------------------------------------
+
+'target1': {'Test data': [957, 666], 'Generation': 1}, 
+'target2': {'Test data': [98, 987], 'Generation': 1}, 
+'target3': {'Test data': [612, 223], 'Generation': 1}, 
+'target4': {'Test data': [653, 175], 'Generation': 1}, 
+'target5': {'Test data': [708, 99], 'Generation': 1}
+
+------------------------------------------------------------------------------------------------------------------------------------
+
+'target1': {'Test data': [864, 514], 'Generation': 1}, 
+'target2': {'Test data': [964, 355], 'Generation': 1}, 
+'target3': {'Test data': [805, 823], 'Generation': 100}, 
+'target4': {'Test data': [902, 111], 'Generation': 1}, 
+'target5': {'Test data': [55, 609], 'Generation': 1}
+
+-----------------------------------------------------------------------------------------------------------------------------------
+
+'target1': {'Test data': [787, 832], 'Generation': 1}, 
+'target2': {'Test data': [928, 569], 'Generation': 1}, 
+'target3': {'Test data': [979, 169], 'Generation': 1}, 
+'target4': {'Test data': [862, 339], 'Generation': 1}, 
+'target5': {'Test data': [644, 679], 'Generation': 1}

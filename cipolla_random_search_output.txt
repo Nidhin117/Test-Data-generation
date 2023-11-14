@@ -1,0 +1,97 @@
+'target1': {'Test data': [3404094, 6842716], 'Generation': 1}, 
+'target2': {'Test data': [7764156, 3811891], 'Generation': 1}, 
+'target3': {'Test data': [2269436, 6143941], 'Generation': 1}, 
+'target4': {'Test data': [3832229, 633923], 'Generation': 1}, 
+'target5': {'Test data': None, 'Generation': 600}, 
+'target6': {'Test data': None, 'Generation': 600}, 
+'target7': {'Test data': None, 'Generation': 600}
+
+--------------------------------------------------------------------------------------------------------------------------------
+
+'target1': {'Test data': [8217022, 3342289], 'Generation': 1}, 
+'target2': {'Test data': [2575295, 4515361], 'Generation': 1}, 
+'target3': {'Test data': [5461415, 1205374], 'Generation': 1}, 
+'target4': {'Test data': [29651, 3615286], 'Generation': 1}, 
+'target5': {'Test data': None, 'Generation': 600}, 
+'target6': {'Test data': [3580989, 879271], 'Generation': 1}, 
+'target7': {'Test data': None, 'Generation': 600}
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+'target1': {'Test data': [5063715, 8466102], 'Generation': 1}, 
+'target2': {'Test data': None, 'Generation': 600}, 
+'target3': {'Test data': None, 'Generation': 600}, 
+'target4': {'Test data': [4265597, 9032006], 'Generation': 1}, 
+'target5': {'Test data': [5472941, 9628546], 'Generation': 1}, 
+'target6': {'Test data': [6994192, 1139227], 'Generation': 1}, 
+'target7': {'Test data': None, 'Generation': 600}
+
+--------------------------------------------------------------------------------------------------------------------------------
+
+'target1': {'Test data': [5612920, 1543604], 'Generation': 1}, 
+'target2': {'Test data': [4672027, 511507], 'Generation': 1}, 
+'target3': {'Test data': None, 'Generation': 600}, 
+'target4': {'Test data': [1821722, 6577091], 'Generation': 1}, 
+'target5': {'Test data': None, 'Generation': 600}, 
+'target6': {'Test data': None, 'Generation': 600}, 
+'target7': {'Test data': None, 'Generation': 600}
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+'target1': {'Test data': [272385, 2670840], 'Generation': 1}, 
+'target2': {'Test data': [2807264, 225217], 'Generation': 1}, 
+'target3': {'Test data': [6099695, 9894382], 'Generation': 1}, 
+'target4': {'Test data': [8759573, 1534411], 'Generation': 1}, 
+'target5': {'Test data': None, 'Generation': 600}, 
+'target6': {'Test data': [8419352, 1955197], 'Generation': 1}, 
+'target7': {'Test data': [3282140, 6296333], 'Generation': 1}
+
+-----------------------------------------------------------------------------------------------------------------------------
+
+'target1': {'Test data': [9690830, 5687835], 'Generation': 1}, 
+'target2': {'Test data': [1109454, 7699837], 'Generation': 1}, 
+'target3': {'Test data': [2953375, 5886358], 'Generation': 1}, 
+'target4': {'Test data': [144665, 5677249], 'Generation': 1}, 
+'target5': {'Test data': None, 'Generation': 600}, 
+'target6': {'Test data': [7305685, 7082017], 'Generation': 1}, 
+'target7': {'Test data': [2152199, 9900427], 'Generation': 1}
+
+--------------------------------------------------------------------------------------------------------------------------------------------
+
+'target1': {'Test data': [8616513, 822698], 'Generation': 1}, 
+'target2': {'Test data': [5648352, 149521], 'Generation': 1}, 
+'target3': {'Test data': [4547775, 9204022], 'Generation': 1}, 
+'target4': {'Test data': None, 'Generation': 600}, 
+'target5': {'Test data': [7528463, 8334734], 'Generation': 1}, 
+'target6': {'Test data': [4323877, 105509], 'Generation': 1}, 
+'target7': {'Test data': None, 'Generation': 600}
+
+--------------------------------------------------------------------------------------------------------------------------------
+
+'target1': {'Test data': [8668443, 8190779], 'Generation': 1}, 
+'target2': {'Test data': [7365293, 2627479], 'Generation': 1}, 
+'target3': {'Test data': [4331899, 1081226], 'Generation': 1}, 
+'target4': {'Test data': [5719313, 9391427], 'Generation': 1}, 
+'target5': {'Test data': None, 'Generation': 600}, 
+'target6': {'Test data': None, 'Generation': 600}, 
+'target7': {'Test data': None, 'Generation': 600}
+
+--------------------------------------------------------------------------------------------------------------------------------
+
+'target1': {'Test data': [9038430, 9150668], 'Generation': 1}, 
+'target2': {'Test data': [9934804, 8550557], 'Generation': 1}, 
+'target3': {'Test data': [7709903, 9067186], 'Generation': 1}, 
+'target4': {'Test data': [6176213, 9730649], 'Generation': 1}, 
+'target5': {'Test data': None, 'Generation': 600}, 
+'target6': {'Test data': [7660130, 1026917], 'Generation': 1}, 
+'target7': {'Test data': [2770443, 7369693], 'Generation': 1}
+
+-----------------------------------------------------------------------------------------------------------------------------------
+
+'target1': {'Test data': [2633524, 7585240], 'Generation': 1}, 
+'target2': {'Test data': [327521, 686029], 'Generation': 1}, 
+'target3': {'Test data': [3603483, 495158], 'Generation': 1}, 
+'target4': {'Test data': [267951, 9703271], 'Generation': 1}, 
+'target5': {'Test data': None, 'Generation': 600}, 
+'target6': {'Test data': None, 'Generation': 600}, 
+'target7': {'Test data': [3358060, 5926187], 'Generation': 1}
